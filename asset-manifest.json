@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fchs-ffa-site/static/css/main.49c58e12.css",
+    "main.js": "/fchs-ffa-site/static/js/main.2f20e034.js",
+    "static/js/453.ad6eb26e.chunk.js": "/fchs-ffa-site/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/fchs-ffa-site/index.html",
+    "main.49c58e12.css.map": "/fchs-ffa-site/static/css/main.49c58e12.css.map",
+    "main.2f20e034.js.map": "/fchs-ffa-site/static/js/main.2f20e034.js.map",
+    "453.ad6eb26e.chunk.js.map": "/fchs-ffa-site/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49c58e12.css",
+    "static/js/main.2f20e034.js"
+  ]
+}
